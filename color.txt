@@ -1,10 +1,11 @@
-```diff
-- Pôle de modération : 
-  5 places. 
-- Pôle communication : 
-  2 places.
-- Pôle admission : 
-  5 places. 
-- Pôle technique :
-  complet. 
-```
+```fix
+ENTREPRISES```
+
+```fix
+ORGANISATIONS```
+
+```fix
+ILLEGAL```
+
+```fix
+ACTIVITES```²
