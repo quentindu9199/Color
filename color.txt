@@ -8,4 +8,4 @@ ORGANISATIONS```
 ILLEGAL```
 
 ```fix
-ACTIVITES```²
+ACTIVITES```
